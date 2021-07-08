@@ -86,9 +86,7 @@ nav .fa{
     display: none;
 }
 @media(max-width:700px){
-    .header{
-        position:fixed;
-    }
+   
     .text-box h1{
         font-size: 20px;
     }
